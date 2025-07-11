@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab6.py
+=================================================================
+    User login name: kpacanut
+    Linux system name: kpacanut-VirtualBox
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/kpacanut/ops445/lab-6-kathhxiii
+    Start at: Fri Jul 11 04:08:40 2025
+=================================================================
